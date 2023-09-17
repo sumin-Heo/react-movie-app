@@ -5,7 +5,7 @@ function About(props) {
   console.log(props);
   return (
     <div className="about__container">
-      <span>"About"</span>
+      <span>sumin-Heo / Selene</span>
     </div>
   );
 }
